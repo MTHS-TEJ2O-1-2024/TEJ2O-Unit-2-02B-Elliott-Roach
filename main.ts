@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: elliott
+ * Created by: Elliott
  * Created on: Sep 2024
- * This program says hello world
+ * This program says hello Elliott
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Elliott!')
